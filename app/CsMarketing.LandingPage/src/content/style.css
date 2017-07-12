@@ -1,0 +1,17 @@
+﻿#s4-mainarea {
+    display: none;
+}
+
+.ms-BasePicker-text {
+    border: 1px solid #c8c8c8!important;
+}
+
+.double-asterix::after {
+    content: ' **';
+    color: #a80000;
+}
+
+.asterix-toggle .ms-Toggle-stateText::before {
+    content: '* ';
+    color: #a80000;
+}
